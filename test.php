@@ -6,4 +6,5 @@
 	echo "version 4.0";
 	echo "version 9.0";
 	echo "version 10.0";
+	echo "version 11.0";
 ?>

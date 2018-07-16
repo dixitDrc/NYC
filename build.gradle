@@ -5,7 +5,7 @@
         snapshotEnabled         : false,      // default false, the "-SNAPSHOT" postfix
         localChangesCountEnabled: false       // default false, the (<commitCount>) before -SNAPSHOT
 ] */
-apply from: 'https://raw.githubusercontent.com/passsy/gradle-GitVersioner/master/git-versioner.gradle'
+apply from: 'https://github.com/dixitDrc/NYC/git-versioner.gradle'
 
 android {
   defaultConfig {
